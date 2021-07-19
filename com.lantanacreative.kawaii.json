@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Server Ready",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 
 // Mode Iklan
@@ -16,9 +16,9 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "ADMOB",
-"pengaturan_iklan_native" : "ADMOB",
+"pengaturan_iklan_banner" : "ca-app-pub-7557152011261309/1360824457",
+"pengaturan_iklan_inter" : "ca-app-pub-7557152011261309/8664599405",
+"pengaturan_iklan_native" : "ca-app-pub-7557152011261309/8477376078",
 
 "inter_count" : 2,
 
@@ -30,11 +30,11 @@
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
-"startapp" : "YOUR_APP_ID",
+"startapp" : "205485423",
 
-"admob_banner" : "",
-"admob_inter" : "",
-"admob_native" : "",
+"admob_banner" : "ca-app-pub-7557152011261309/1360824457",
+"admob_inter" : "ca-app-pub-7557152011261309/8664599405",
+"admob_native" : "ca-app-pub-7557152011261309/8477376078",
 
 "hpk_alien" : "kuota data 30gb",
 "hpkadmob1" : "Kuota Data",
