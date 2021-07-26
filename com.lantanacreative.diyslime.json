@@ -1,10 +1,10 @@
 {
 "redirect" : {
 
-"HOMEURL" : "https://corgacor.com/",
+"HOMEURL" : "https://creativediyslime.blogspot.com/",
  
  // testing server json yang dipakai
-"Json_popup_Wait" : "Server Ready . . . v19j13",
+"Json_popup_Wait" : "Server Ready",
 
 
 "MODE_NO_ADS" : true,
@@ -66,7 +66,7 @@
 "Button_Rating" : "RATING NOW",
 
 
-"Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"Exit_Popup_Dialog" : "Let's Give 5 Stars \n\n So that we are excited to continue developing the application :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
 "enable_Share_button" : true,
