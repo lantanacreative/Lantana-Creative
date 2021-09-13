@@ -1,7 +1,7 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v19j13 ",
+"JSON_POPUP_WAIT" : "Server Ready",
 
 "MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : true,
@@ -61,21 +61,14 @@
 "BUTTON_START" : "START",
 
 "EXIT_POPUP_DIALOG" : "
-jika kamu menikmati aplikasi ini
-
-bantu kami dengan rating bintang 5 ya
-
-klik tombol rating
+We are more enthusiastic about developing this application \n\n Please help us with a 5 star rating :)
 
 ",
 "RATE_BUTTON" : "RATING 5 STARS",
 "LATER_BUTTON" : "LATER",
 "ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
-wah aplikasi ini bagus banget
-aku udah nyobain 
-coba deh kamu donwload sekrang juga
-
+Very cool application. I've tried it, try downloading it too, you'll be happy too
 ",
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
