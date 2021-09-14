@@ -1,73 +1,83 @@
 {
   "redirect" : {
- 
-"json_popup_wait" : "Server Ready",
-  
-"mode_no_ads" : false,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
-// Mode Iklan
-// 
-//  mode pengaturan iklan
-//  Mode ADMOB       Admob backup Unity Backup Startapp
-//  Mode FAN         FAN  backup Unity Backup Startapp
-//  Mode APPODEAL    Appodeal  backup Unity Backup Startapp
-//  Mode UNITY       Unity backup Startapp
-//  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
-//  Iklan native hanya bisa admob fan appodel
+"JSON_POPUP_WAIT" : "Server Ready",
 
-"pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "ADMOB",
-"pengaturan_iklan_native" : "ADMOB",
+"MODE_NO_ADS" : false,
+"MODE_BACKUP_ADS" : true,
 
-"inter_count" : 2,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
-"enable_strap" : true,
-"enable_strap_Splah" : true,
+//     * mode pengaturan iklan
+//     * Mode ADMOB       Admob backup Unity Backup Startapp
+//     * Mode FAN         FAN backup Unity Backup Startapp
+//     * Mode APPODEAL    Appodeal backup Unity Backup Startapp
+//     * Mode UNITY       Unity backup Startapp
+//     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
+//     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 
-"ads_on_exit_dialog" : true,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"mode_offline_mp3" : false,
-"enable_sticky_notification" : true,
+"INTERS_COUNT_WEB" : 5,
 
-"startapp" : "206928275",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"admob_banner" : "ca-app-pub-7557152011261309/9832897762",
-"admob_inter" : "ca-app-pub-7557152011261309/1379692677",
-"admob_native" : "ca-app-pub-7557152011261309/1188120987",
+"STARAPPID" : "206928275",
 
-"hpk_alien" : "kuota data 30gb",
-"hpkadmob1" : "Kuota Data",
-"hpkadmob2" : "Bank Jenius",
-"hpkadmob3" : "Simpati",
-"hpkadmob4" : "Telkomsel",
-"hpkadmob5" : "Donasi",
+"ADMOB_BANNER" : "ca-app-pub-7557152011261309/9832897762",
+"ADMOB_INTER" : "ca-app-pub-7557152011261309/1379692677",
+"ADMOB_NATIV" : "ca-app-pub-7557152011261309/1188120987",
 
-"fan_banner" : "186275210211612_186278526877947",
-"fan_inter" : "186275210211612_186279096877890",
-"fan_native" : "186275210211612_186279406877859",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4225713",
+"UNITY_TEST_MODE" : false,
 
-"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
+"APPLOVIN_BANNER_ID" : "ISIAN",
+"APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
 
-"unity_banner_id" : "Banner_Android",
-"unity_inters_id" : "Interstitial_Android",
-"unity_id" : 4225713,
-"unity_test" : false,
+"HPK_ALIENDROID" : "payoneer",
+"HPK_ADMOB1" : "Kuota Data",
+"HPK_ADMOB2" : "bank jenius",
+"HPK_ADMOB3" : "bank jago",
+"HPK_ADMOB4" : "paypal",
+"HPK_ADMOB5" : "donation",
 
-"applovin_banner_id" : "YOUR_AD_UNIT_ID",
-"applovin_inters_id" : "YOUR_AD_UNIT_ID",
+"FAN_BANNER" : "186275210211612_186278526877947",
+"FAN_INTER" : "186275210211612_186279096877890",
+"FAN_NATIVE" : "186275210211612_186279406877859",
 
-"Button_Rating" : "Rating Now",
-"Button_Share" : "Share to Friends",
-"Button_Start" : "Start",
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"exit_popup_dialog" : "We are more enthusiastic about developing this application \n\n Please help us with a 5 star rating :)",
-"rate_button" : "Rating 5 Star",
-"later_button" : "Rating Later",
-"enable_Share_button" : true,
-"Share_TXT" : "Very cool application, I've tried it, try downloading it too, you'll be happy too",
-"more_button" : "Share Via WhatsApp",
-"url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE "
+"TAPDAQ_APP_ID" : "6140640a08fe6c2d735d6cf0",
+"TAPDAQ_CLIENT_KEY" : "0ff1eaaa-3e25-4a04-ab06-543621800709",
+
+"BUTTON_RATING" : "RATING",
+"BUTTON_SHARE" : "SHARE TO FRIEND",
+"BUTTON_START" : "START",
+
+"EXIT_POPUP_DIALOG" : "
+We are more enthusiastic about developing this application \n\n Please help us with a 5 star rating :)
+
+",
+"RATE_BUTTON" : "RATING 5 STARS",
+"LATER_BUTTON" : "LATER",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+Very cool application. I've tried it, try downloading it too, you'll be happy too
+",
+"MORE_BUTTON" : "SHARE VIA WHATSAPP",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+
+"REDIRECT_TRAFFIC" : false,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+
 
   }
 }
+
+
